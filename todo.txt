@@ -1,0 +1,7 @@
+
+
+
+
+Make a particle that can travel wrt model
+Make model
+Calculate hypocenter function

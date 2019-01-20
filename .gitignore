@@ -1,0 +1,6 @@
+libtorch/
+libtorch/*
+libtorch/**
+*.so
+
+

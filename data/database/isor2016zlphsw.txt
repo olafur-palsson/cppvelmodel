@@ -1,0 +1,80 @@
+Event:
+    Public ID              isor2016zlphsw
+    Description
+      region name: Iceland
+Origin:
+    Date                   2016-12-26
+    Time                   09:59:49.617  +/-  0.318 s
+    Latitude                64.053734 deg  +/-   1.849 km
+    Longitude              -21.405235 deg  +/-   1.663 km
+    Depth                       6.018 km   +/-   2.533 km
+    Agency                 ISOR
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.063 s
+    Azimuthal gap            102.0 deg
+
+3 Network magnitudes:
+    ML        1.59 +/- 0.33  11            
+    MLv       1.52 +/- 0.39  11            
+    M         1.54           11 preferred  
+
+27 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt    sta
+    HUMLI ON    0.005593 115.9  P       09:59:50.728  -0.049 M  1.000  u HUMLI
+    HUMLI ON    0.005593 115.9  S       09:59:51.548  -0.135 M  1.000  . HUMLI
+    SKARM ON    0.022992  95.9  P       09:59:50.984   0.130 MX 0.000  u SKARM
+    SKARM ON    0.022992  95.9  S       09:59:52.130   0.310 MX 0.000  . SKARM
+    EDA   SI    0.029835  13.9  P       09:59:50.949   0.033 M  1.000  u EDA  
+    EDA   SI    0.029835  13.9  S       09:59:51.912  -0.018 M  1.000  . EDA  
+    INNST ON    0.038246  66.1  P       09:59:51.067   0.063 M  1.000  u INNST
+    INNST ON    0.038246  66.1  S       09:59:52.101   0.014 M  1.000  . INNST
+    LSKAR ON    0.049063 108.2  P       09:59:51.225   0.083 M  1.000  u LSKAR
+    LSKAR ON    0.049063 108.2  S       09:59:52.362   0.030 M  1.000  . LSKAR
+    SHR   ON    0.050142 233.6  P       09:59:51.258   0.101 M  1.000  u SHR  
+    SHR   ON    0.050142 233.6  S       09:59:52.441   0.083 M  1.000  . SHR  
+    HVH   ON    0.053746 145.5  P       09:59:51.303   0.097 M  1.000  u HVH  
+    HVH   ON    0.053746 145.5  S       09:59:52.407  -0.039 M  1.000  . HVH  
+    SAN   SI    0.072571 271.9  P       09:59:51.481  -0.006 M  1.000  u SAN  
+    SAN   SI    0.072571 271.9  S       09:59:52.885  -0.062 M  1.000  . SAN  
+    BJA   SI    0.117352 157.3  P       09:59:52.252   0.023 M  1.000  . BJA  
+    BJA   SI    0.117352 157.3  S       09:59:54.203  -0.064 M  1.000  . BJA  
+    KRO   SI    0.133143  70.3  P       09:59:52.513   0.016 M  1.000  u KRO  
+    KRO   SI    0.133143  70.3  S       09:59:54.709  -0.035 M  1.000  . KRO  
+    HEI   SI    0.164374  26.8  P       09:59:53.076   0.048 M  1.000  u HEI  
+    HEI   SI    0.164374  26.8  S       09:59:55.667  -0.023 M  1.000  . HEI  
+    SOL   SI    0.239013 121.4  P       09:59:54.217  -0.082 M  1.000  u SOL  
+    SOL   SI    0.239013 121.4  S       09:59:57.708  -0.247 MX 0.000  . SOL  
+    VOS   SI    0.240955 213.3  P       09:59:54.346   0.014 M  1.000  u VOS  
+    VOS   SI    0.240955 213.3  S       09:59:58.184   0.169 MX 0.000  . VOS  
+    VOG   SI    0.443220 259.5  P       09:59:57.646  -0.094 M  1.000  u VOG  
+
+26 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    HUMLI ON    0.0 115.9  ML      0.84 -0.75   0.334132      
+    HUMLI ON    0.0 115.9  MLv     0.61 -0.91   0.198857      
+    EDA   SI    0.0  13.9  ML      1.82  0.23    2.72798      
+    EDA   SI    0.0  13.9  MLv     1.63  0.11    1.77319      
+    INNST ON    0.0  66.1  ML      1.20 -0.39    0.62414      
+    INNST ON    0.0  66.1  MLv     0.92 -0.60   0.330552      
+    LSKAR ON    0.0 108.2  ML      1.18 -0.41   0.557372      
+    LSKAR ON    0.0 108.2  MLv     0.93 -0.59   0.312969      
+    SHR   ON    0.1 233.6  ML      1.52 -0.07     1.2053      
+    SHR   ON    0.1 233.6  MLv     1.13 -0.39   0.490455      
+    HVH   ON    0.1 145.5  ML      1.25 -0.34   0.636229      
+    HVH   ON    0.1 145.5  MLv     1.49 -0.03    1.11196      
+    SAN   SI    0.1 271.9  ML      1.13 -0.46   0.428323      
+    SAN   SI    0.1 271.9  MLv     1.25 -0.27   0.562392      
+    BJA   SI    0.1 157.3  ML      1.84  0.26    1.65248      
+    BJA   SI    0.1 157.3  MLv     1.99  0.47    2.33857      
+    KRO   SI    0.1  70.3  ML      1.90  0.31    1.71643      
+    KRO   SI    0.1  70.3  MLv     2.10  0.57    2.67825      
+    HEI   SI    0.2  26.8  ML      1.69  0.10    0.86658      
+    HEI   SI    0.2  26.8  MLv     1.51 -0.01     0.5748      
+    SOL   SI    0.2 121.4  ML      1.80  0.22   0.697173      
+    SOL   SI    0.2 121.4  MLv     1.79  0.27   0.671823      
+    VOS   SI    0.2 213.3  ML      2.24  0.65    1.88009      
+    VOS   SI    0.2 213.3  MLv     1.97  0.45   0.999565      
+    VOG   SI    0.4 259.5  ML      4.11  2.52     38.398      
+    VOG   SI    0.4 259.5  MLv     3.87  2.34    21.9125      
+
